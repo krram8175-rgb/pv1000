@@ -1,0 +1,650 @@
+{
+  "key": "neet-physics-electric-charges-and-fields",
+  "exam": "NEET",
+  "subject": "physics",
+  "cls": "12",
+  "chapter_no": 1,
+  "chapter": "Electric Charges and Fields",
+  "source": "NEET",
+  "mode": "image",
+  "total_questions": 44,
+  "sections": [
+    {
+      "topic": "Full Paper — NEET 2026",
+      "questions": [
+        {
+          "question_no": 1,
+          "display_no": 1,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q1.png",
+          "option_images": {
+            "a": "ecf-fp-q1-a.png",
+            "b": "ecf-fp-q1-b.png",
+            "c": "ecf-fp-q1-c.png",
+            "d": "ecf-fp-q1-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q1-sol.png"
+        },
+        {
+          "question_no": 2,
+          "display_no": 2,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q2.png",
+          "option_images": {
+            "a": "ecf-fp-q2-a.png",
+            "b": "ecf-fp-q2-b.png",
+            "c": "ecf-fp-q2-c.png",
+            "d": "ecf-fp-q2-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q2-sol.png"
+        },
+        {
+          "question_no": 3,
+          "display_no": 3,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q3.png",
+          "option_images": {
+            "a": "ecf-fp-q3-a.png",
+            "b": "ecf-fp-q3-b.png",
+            "c": "ecf-fp-q3-c.png",
+            "d": "ecf-fp-q3-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q3-sol.png"
+        },
+        {
+          "question_no": 4,
+          "display_no": 4,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q4.png",
+          "option_images": {
+            "a": "ecf-fp-q4-a.png",
+            "b": "ecf-fp-q4-b.png",
+            "c": "ecf-fp-q4-c.png",
+            "d": "ecf-fp-q4-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q4-sol.png"
+        },
+        {
+          "question_no": 5,
+          "display_no": 5,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q5.png",
+          "option_images": {
+            "a": "ecf-fp-q5-a.png",
+            "b": "ecf-fp-q5-b.png",
+            "c": "ecf-fp-q5-c.png",
+            "d": "ecf-fp-q5-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q5-sol.png"
+        },
+        {
+          "question_no": 6,
+          "display_no": 6,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q6.png",
+          "option_images": {
+            "a": "ecf-fp-q6-a.png",
+            "b": "ecf-fp-q6-b.png",
+            "c": "ecf-fp-q6-c.png",
+            "d": "ecf-fp-q6-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q6-sol.png"
+        },
+        {
+          "question_no": 7,
+          "display_no": 7,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q7.png",
+          "option_images": {
+            "a": "ecf-fp-q7-a.png",
+            "b": "ecf-fp-q7-b.png",
+            "c": "ecf-fp-q7-c.png",
+            "d": "ecf-fp-q7-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q7-sol.png"
+        },
+        {
+          "question_no": 8,
+          "display_no": 8,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q8.png",
+          "option_images": {
+            "a": "ecf-fp-q8-a.png",
+            "b": "ecf-fp-q8-b.png",
+            "c": "ecf-fp-q8-c.png",
+            "d": "ecf-fp-q8-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q8-sol.png"
+        },
+        {
+          "question_no": 9,
+          "display_no": 9,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q9.png",
+          "option_images": {
+            "a": "ecf-fp-q9-a.png",
+            "b": "ecf-fp-q9-b.png",
+            "c": "ecf-fp-q9-c.png",
+            "d": "ecf-fp-q9-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q9-sol.png"
+        },
+        {
+          "question_no": 10,
+          "display_no": 10,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q10.png",
+          "option_images": {
+            "a": "ecf-fp-q10-a.png",
+            "b": "ecf-fp-q10-b.png",
+            "c": "ecf-fp-q10-c.png",
+            "d": "ecf-fp-q10-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q10-sol.png"
+        },
+        {
+          "question_no": 11,
+          "display_no": 11,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q11.png",
+          "option_images": {
+            "a": "ecf-fp-q11-a.png",
+            "b": "ecf-fp-q11-b.png",
+            "c": "ecf-fp-q11-c.png",
+            "d": "ecf-fp-q11-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q11-sol.png"
+        },
+        {
+          "question_no": 12,
+          "display_no": 12,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q12.png",
+          "option_images": {
+            "a": "ecf-fp-q12-a.png",
+            "b": "ecf-fp-q12-b.png",
+            "c": "ecf-fp-q12-c.png",
+            "d": "ecf-fp-q12-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q12-sol.png"
+        },
+        {
+          "question_no": 13,
+          "display_no": 13,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q13.png",
+          "option_images": {
+            "a": "ecf-fp-q13-a.png",
+            "b": "ecf-fp-q13-b.png",
+            "c": "ecf-fp-q13-c.png",
+            "d": "ecf-fp-q13-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q13-sol.png"
+        },
+        {
+          "question_no": 14,
+          "display_no": 14,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q14.png",
+          "option_images": {
+            "a": "ecf-fp-q14-a.png",
+            "b": "ecf-fp-q14-b.png",
+            "c": "ecf-fp-q14-c.png",
+            "d": "ecf-fp-q14-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q14-sol.png"
+        },
+        {
+          "question_no": 15,
+          "display_no": 1,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q15.png",
+          "option_images": {
+            "a": "ecf-fp-q15-a.png",
+            "b": "ecf-fp-q15-b.png",
+            "c": "ecf-fp-q15-c.png",
+            "d": "ecf-fp-q15-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q15-sol.png"
+        },
+        {
+          "question_no": 16,
+          "display_no": 2,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q16.png",
+          "option_images": {
+            "a": "ecf-fp-q16-a.png",
+            "b": "ecf-fp-q16-b.png",
+            "c": "ecf-fp-q16-c.png",
+            "d": "ecf-fp-q16-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q16-sol.png"
+        },
+        {
+          "question_no": 17,
+          "display_no": 3,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q17.png",
+          "option_images": {
+            "a": "ecf-fp-q17-a.png",
+            "b": "ecf-fp-q17-b.png",
+            "c": "ecf-fp-q17-c.png",
+            "d": "ecf-fp-q17-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q17-sol.png"
+        },
+        {
+          "question_no": 18,
+          "display_no": 4,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q18.png",
+          "option_images": {
+            "a": "ecf-fp-q18-a.png",
+            "b": "ecf-fp-q18-b.png",
+            "c": "ecf-fp-q18-c.png",
+            "d": "ecf-fp-q18-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q18-sol.png"
+        },
+        {
+          "question_no": 19,
+          "display_no": 5,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q19.png",
+          "option_images": {
+            "a": "ecf-fp-q19-a.png",
+            "b": "ecf-fp-q19-b.png",
+            "c": "ecf-fp-q19-c.png",
+            "d": "ecf-fp-q19-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q19-sol.png"
+        },
+        {
+          "question_no": 20,
+          "display_no": 6,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q20.png",
+          "option_images": {
+            "a": "ecf-fp-q20-a.png",
+            "b": "ecf-fp-q20-b.png",
+            "c": "ecf-fp-q20-c.png",
+            "d": "ecf-fp-q20-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q20-sol.png"
+        },
+        {
+          "question_no": 21,
+          "display_no": 7,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q21.png",
+          "option_images": {
+            "a": "ecf-fp-q21-a.png",
+            "b": "ecf-fp-q21-b.png",
+            "c": "ecf-fp-q21-c.png",
+            "d": "ecf-fp-q21-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q21-sol.png"
+        },
+        {
+          "question_no": 22,
+          "display_no": 8,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q22.png",
+          "option_images": {
+            "a": "ecf-fp-q22-a.png",
+            "b": "ecf-fp-q22-b.png",
+            "c": "ecf-fp-q22-c.png",
+            "d": "ecf-fp-q22-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q22-sol.png"
+        },
+        {
+          "question_no": 23,
+          "display_no": 1,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q23.png",
+          "option_images": {
+            "a": "ecf-fp-q23-a.png",
+            "b": "ecf-fp-q23-b.png",
+            "c": "ecf-fp-q23-c.png",
+            "d": "ecf-fp-q23-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q23-sol.png"
+        },
+        {
+          "question_no": 24,
+          "display_no": 2,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q24.png",
+          "option_images": {
+            "a": "ecf-fp-q24-a.png",
+            "b": "ecf-fp-q24-b.png",
+            "c": "ecf-fp-q24-c.png",
+            "d": "ecf-fp-q24-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q24-sol.png"
+        },
+        {
+          "question_no": 25,
+          "display_no": 3,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q25.png",
+          "option_images": {
+            "a": "ecf-fp-q25-a.png",
+            "b": "ecf-fp-q25-b.png",
+            "c": "ecf-fp-q25-c.png",
+            "d": "ecf-fp-q25-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q25-sol.png"
+        },
+        {
+          "question_no": 26,
+          "display_no": 4,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q26.png",
+          "option_images": {
+            "a": "ecf-fp-q26-a.png",
+            "b": "ecf-fp-q26-b.png",
+            "c": "ecf-fp-q26-c.png",
+            "d": "ecf-fp-q26-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q26-sol.png"
+        },
+        {
+          "question_no": 27,
+          "display_no": 5,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q27.png",
+          "option_images": {
+            "a": "ecf-fp-q27-a.png",
+            "b": "ecf-fp-q27-b.png",
+            "c": "ecf-fp-q27-c.png",
+            "d": "ecf-fp-q27-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q27-sol.png"
+        },
+        {
+          "question_no": 28,
+          "display_no": 6,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q28.png",
+          "option_images": {
+            "a": "ecf-fp-q28-a.png",
+            "b": "ecf-fp-q28-b.png",
+            "c": "ecf-fp-q28-c.png",
+            "d": "ecf-fp-q28-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q28-sol.png"
+        },
+        {
+          "question_no": 29,
+          "display_no": 7,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q29.png",
+          "option_images": {
+            "a": "ecf-fp-q29-a.png",
+            "b": "ecf-fp-q29-b.png",
+            "c": "ecf-fp-q29-c.png",
+            "d": "ecf-fp-q29-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q29-sol.png"
+        },
+        {
+          "question_no": 30,
+          "display_no": 8,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q30.png",
+          "option_images": {
+            "a": "ecf-fp-q30-a.png",
+            "b": "ecf-fp-q30-b.png",
+            "c": "ecf-fp-q30-c.png",
+            "d": "ecf-fp-q30-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q30-sol.png"
+        },
+        {
+          "question_no": 31,
+          "display_no": 9,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q31.png",
+          "option_images": {
+            "a": "ecf-fp-q31-a.png",
+            "b": "ecf-fp-q31-b.png",
+            "c": "ecf-fp-q31-c.png",
+            "d": "ecf-fp-q31-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q31-sol.png"
+        },
+        {
+          "question_no": 32,
+          "display_no": 10,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q32.png",
+          "option_images": {
+            "a": "ecf-fp-q32-a.png",
+            "b": "ecf-fp-q32-b.png",
+            "c": "ecf-fp-q32-c.png",
+            "d": "ecf-fp-q32-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q32-sol.png"
+        },
+        {
+          "question_no": 33,
+          "display_no": 11,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q33.png",
+          "option_images": {
+            "a": "ecf-fp-q33-a.png",
+            "b": "ecf-fp-q33-b.png",
+            "c": "ecf-fp-q33-c.png",
+            "d": "ecf-fp-q33-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q33-sol.png"
+        },
+        {
+          "question_no": 34,
+          "display_no": 12,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q34.png",
+          "option_images": {
+            "a": "ecf-fp-q34-a.png",
+            "b": "ecf-fp-q34-b.png",
+            "c": "ecf-fp-q34-c.png",
+            "d": "ecf-fp-q34-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q34-sol.png"
+        },
+        {
+          "question_no": 35,
+          "display_no": 13,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q35.png",
+          "option_images": {
+            "a": "ecf-fp-q35-a.png",
+            "b": "ecf-fp-q35-b.png",
+            "c": "ecf-fp-q35-c.png",
+            "d": "ecf-fp-q35-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q35-sol.png"
+        },
+        {
+          "question_no": 36,
+          "display_no": 14,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q36.png",
+          "option_images": {
+            "a": "ecf-fp-q36-a.png",
+            "b": "ecf-fp-q36-b.png",
+            "c": "ecf-fp-q36-c.png",
+            "d": "ecf-fp-q36-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q36-sol.png"
+        },
+        {
+          "question_no": 37,
+          "display_no": 1,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q37.png",
+          "option_images": {
+            "a": "ecf-fp-q37-a.png",
+            "b": "ecf-fp-q37-b.png",
+            "c": "ecf-fp-q37-c.png",
+            "d": "ecf-fp-q37-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q37-sol.png"
+        },
+        {
+          "question_no": 38,
+          "display_no": 2,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q38.png",
+          "option_images": {
+            "a": "ecf-fp-q38-a.png",
+            "b": "ecf-fp-q38-b.png",
+            "c": "ecf-fp-q38-c.png",
+            "d": "ecf-fp-q38-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q38-sol.png"
+        },
+        {
+          "question_no": 39,
+          "display_no": 3,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q39.png",
+          "option_images": {
+            "a": "ecf-fp-q39-a.png",
+            "b": "ecf-fp-q39-b.png",
+            "c": "ecf-fp-q39-c.png",
+            "d": "ecf-fp-q39-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q39-sol.png"
+        },
+        {
+          "question_no": 40,
+          "display_no": 4,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q40.png",
+          "option_images": {
+            "a": "ecf-fp-q40-a.png",
+            "b": "ecf-fp-q40-b.png",
+            "c": "ecf-fp-q40-c.png",
+            "d": "ecf-fp-q40-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q40-sol.png"
+        },
+        {
+          "question_no": 41,
+          "display_no": 5,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q41.png",
+          "option_images": {
+            "a": "ecf-fp-q41-a.png",
+            "b": "ecf-fp-q41-b.png",
+            "c": "ecf-fp-q41-c.png",
+            "d": "ecf-fp-q41-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q41-sol.png"
+        },
+        {
+          "question_no": 42,
+          "display_no": 6,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q42.png",
+          "option_images": {
+            "a": "ecf-fp-q42-a.png",
+            "b": "ecf-fp-q42-b.png",
+            "c": "ecf-fp-q42-c.png",
+            "d": "ecf-fp-q42-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q42-sol.png"
+        },
+        {
+          "question_no": 43,
+          "display_no": 7,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q43.png",
+          "option_images": {
+            "a": "ecf-fp-q43-a.png",
+            "b": "ecf-fp-q43-b.png",
+            "c": "ecf-fp-q43-c.png",
+            "d": "ecf-fp-q43-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q43-sol.png"
+        },
+        {
+          "question_no": 44,
+          "display_no": 8,
+          "year": "NEET 2026",
+          "question_image": "ecf-fp-q44.png",
+          "option_images": {
+            "a": "ecf-fp-q44-a.png",
+            "b": "ecf-fp-q44-b.png",
+            "c": "ecf-fp-q44-c.png",
+            "d": "ecf-fp-q44-d.png"
+          },
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q44-sol.png"
+        }
+      ]
+    },
+    {
+      "topic": "Electric Charges and Coulomb's Law",
+      "questions": []
+    },
+    {
+      "topic": "Electric Field and Electric Field Intensity",
+      "questions": []
+    },
+    {
+      "topic": "Electric Dipole",
+      "questions": []
+    },
+    {
+      "topic": "Electric Flux and Gauss's Law",
+      "questions": []
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "key": "kcet-physics-electric-charges-and-fields",
+  "exam": "KCET",
+  "subject": "physics",
+  "cls": "12",
+  "chapter_no": 1,
+  "chapter": "Electric Charges and Fields",
+  "source": "KCET",
+  "mode": "image",
+  "total_questions": 41,
+  "sections": [
+    {
+      "topic": "Electric Charges and Coulomb's Law",
+      "questions": [
+        {
+          "question_no": 1,
+          "display_no": 1,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q1.png",
+          "option_images": {
+            "a": "kcet-ecf-q1-a.png",
+            "b": "kcet-ecf-q1-b.png",
+            "c": "kcet-ecf-q1-c.png",
+            "d": "kcet-ecf-q1-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2,
+          "display_no": 2,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q2.png",
+          "option_images": {
+            "a": "kcet-ecf-q2-a.png",
+            "b": "kcet-ecf-q2-b.png",
+            "c": "kcet-ecf-q2-c.png",
+            "d": "kcet-ecf-q2-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 3,
+          "display_no": 3,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q3.png",
+          "option_images": {
+            "a": "kcet-ecf-q3-a.png",
+            "b": "kcet-ecf-q3-b.png",
+            "c": "kcet-ecf-q3-c.png",
+            "d": "kcet-ecf-q3-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 4,
+          "display_no": 4,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q4.png",
+          "option_images": {
+            "a": "kcet-ecf-q4-a.png",
+            "b": "kcet-ecf-q4-b.png",
+            "c": "kcet-ecf-q4-c.png",
+            "d": "kcet-ecf-q4-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 5,
+          "display_no": 5,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q5.png",
+          "option_images": {
+            "a": "kcet-ecf-q5-a.png",
+            "b": "kcet-ecf-q5-b.png",
+            "c": "kcet-ecf-q5-c.png",
+            "d": "kcet-ecf-q5-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 6,
+          "display_no": 6,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q6.png",
+          "option_images": {
+            "a": "kcet-ecf-q6-a.png",
+            "b": "kcet-ecf-q6-b.png",
+            "c": "kcet-ecf-q6-c.png",
+            "d": "kcet-ecf-q6-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 7,
+          "display_no": 7,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q7.png",
+          "option_images": {
+            "a": "kcet-ecf-q7-a.png",
+            "b": "kcet-ecf-q7-b.png",
+            "c": "kcet-ecf-q7-c.png",
+            "d": "kcet-ecf-q7-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 8,
+          "display_no": 8,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q8.png",
+          "option_images": {
+            "a": "kcet-ecf-q8-a.png",
+            "b": "kcet-ecf-q8-b.png",
+            "c": "kcet-ecf-q8-c.png",
+            "d": "kcet-ecf-q8-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 9,
+          "display_no": 9,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q9.png",
+          "option_images": {
+            "a": "kcet-ecf-q9-a.png",
+            "b": "kcet-ecf-q9-b.png",
+            "c": "kcet-ecf-q9-c.png",
+            "d": "kcet-ecf-q9-d.png"
+          },
+          "header_in_image": false
+        }
+      ]
+    },
+    {
+      "topic": "Electric Field and Electric Field Intensity",
+      "questions": [
+        {
+          "question_no": 10,
+          "display_no": 10,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q10.png",
+          "option_images": {
+            "a": "kcet-ecf-q10-a.png",
+            "b": "kcet-ecf-q10-b.png",
+            "c": "kcet-ecf-q10-c.png",
+            "d": "kcet-ecf-q10-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 11,
+          "display_no": 11,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q11.png",
+          "option_images": {
+            "a": "kcet-ecf-q11-a.png",
+            "b": "kcet-ecf-q11-b.png",
+            "c": "kcet-ecf-q11-c.png",
+            "d": "kcet-ecf-q11-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 12,
+          "display_no": 12,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q12.png",
+          "option_images": {
+            "a": "kcet-ecf-q12-a.png",
+            "b": "kcet-ecf-q12-b.png",
+            "c": "kcet-ecf-q12-c.png",
+            "d": "kcet-ecf-q12-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 13,
+          "display_no": 13,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q13.png",
+          "option_images": {
+            "a": "kcet-ecf-q13-a.png",
+            "b": "kcet-ecf-q13-b.png",
+            "c": "kcet-ecf-q13-c.png",
+            "d": "kcet-ecf-q13-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 14,
+          "display_no": 14,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q14.png",
+          "option_images": {
+            "a": "kcet-ecf-q14-a.png",
+            "b": "kcet-ecf-q14-b.png",
+            "c": "kcet-ecf-q14-c.png",
+            "d": "kcet-ecf-q14-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 15,
+          "display_no": 15,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q15.png",
+          "option_images": {
+            "a": "kcet-ecf-q15-a.png",
+            "b": "kcet-ecf-q15-b.png",
+            "c": "kcet-ecf-q15-c.png",
+            "d": "kcet-ecf-q15-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 16,
+          "display_no": 16,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q16.png",
+          "option_images": {
+            "a": "kcet-ecf-q16-a.png",
+            "b": "kcet-ecf-q16-b.png",
+            "c": "kcet-ecf-q16-c.png",
+            "d": "kcet-ecf-q16-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 17,
+          "display_no": 17,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q17.png",
+          "option_images": {
+            "a": "kcet-ecf-q17-a.png",
+            "b": "kcet-ecf-q17-b.png",
+            "c": "kcet-ecf-q17-c.png",
+            "d": "kcet-ecf-q17-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 18,
+          "display_no": 18,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q18.png",
+          "option_images": {
+            "a": "kcet-ecf-q18-a.png",
+            "b": "kcet-ecf-q18-b.png",
+            "c": "kcet-ecf-q18-c.png",
+            "d": "kcet-ecf-q18-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 19,
+          "display_no": 19,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q19.png",
+          "option_images": {
+            "a": "kcet-ecf-q19-a.png",
+            "b": "kcet-ecf-q19-b.png",
+            "c": "kcet-ecf-q19-c.png",
+            "d": "kcet-ecf-q19-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 20,
+          "display_no": 20,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q20.png",
+          "option_images": {
+            "a": "kcet-ecf-q20-a.png",
+            "b": "kcet-ecf-q20-b.png",
+            "c": "kcet-ecf-q20-c.png",
+            "d": "kcet-ecf-q20-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 21,
+          "display_no": 21,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q21.png",
+          "option_images": {
+            "a": "kcet-ecf-q21-a.png",
+            "b": "kcet-ecf-q21-b.png",
+            "c": "kcet-ecf-q21-c.png",
+            "d": "kcet-ecf-q21-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 22,
+          "display_no": 22,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q22.png",
+          "option_images": {
+            "a": "kcet-ecf-q22-a.png",
+            "b": "kcet-ecf-q22-b.png",
+            "c": "kcet-ecf-q22-c.png",
+            "d": "kcet-ecf-q22-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 23,
+          "display_no": 23,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q23.png",
+          "option_images": {
+            "a": "kcet-ecf-q23-a.png",
+            "b": "kcet-ecf-q23-b.png",
+            "c": "kcet-ecf-q23-c.png",
+            "d": "kcet-ecf-q23-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 24,
+          "display_no": 24,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q24.png",
+          "option_images": {
+            "a": "kcet-ecf-q24-a.png",
+            "b": "kcet-ecf-q24-b.png",
+            "c": "kcet-ecf-q24-c.png",
+            "d": "kcet-ecf-q24-d.png"
+          },
+          "header_in_image": false
+        }
+      ]
+    },
+    {
+      "topic": "Electric Dipole",
+      "questions": [
+        {
+          "question_no": 25,
+          "display_no": 25,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q25.png",
+          "option_images": {
+            "a": "kcet-ecf-q25-a.png",
+            "b": "kcet-ecf-q25-b.png",
+            "c": "kcet-ecf-q25-c.png",
+            "d": "kcet-ecf-q25-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 26,
+          "display_no": 26,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q26.png",
+          "option_images": {
+            "a": "kcet-ecf-q26-a.png",
+            "b": "kcet-ecf-q26-b.png",
+            "c": "kcet-ecf-q26-c.png",
+            "d": "kcet-ecf-q26-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 27,
+          "display_no": 27,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q27.png",
+          "option_images": {
+            "a": "kcet-ecf-q27-a.png",
+            "b": "kcet-ecf-q27-b.png",
+            "c": "kcet-ecf-q27-c.png",
+            "d": "kcet-ecf-q27-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 28,
+          "display_no": 28,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q28.png",
+          "option_images": {
+            "a": "kcet-ecf-q28-a.png",
+            "b": "kcet-ecf-q28-b.png",
+            "c": "kcet-ecf-q28-c.png",
+            "d": "kcet-ecf-q28-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 29,
+          "display_no": 29,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q29.png",
+          "option_images": {
+            "a": "kcet-ecf-q29-a.png",
+            "b": "kcet-ecf-q29-b.png",
+            "c": "kcet-ecf-q29-c.png",
+            "d": "kcet-ecf-q29-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 30,
+          "display_no": 30,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q30.png",
+          "option_images": {
+            "a": "kcet-ecf-q30-a.png",
+            "b": "kcet-ecf-q30-b.png",
+            "c": "kcet-ecf-q30-c.png",
+            "d": "kcet-ecf-q30-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 31,
+          "display_no": 31,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q31.png",
+          "option_images": {
+            "a": "kcet-ecf-q31-a.png",
+            "b": "kcet-ecf-q31-b.png",
+            "c": "kcet-ecf-q31-c.png",
+            "d": "kcet-ecf-q31-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 32,
+          "display_no": 32,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q32.png",
+          "option_images": {
+            "a": "kcet-ecf-q32-a.png",
+            "b": "kcet-ecf-q32-b.png",
+            "c": "kcet-ecf-q32-c.png",
+            "d": "kcet-ecf-q32-d.png"
+          },
+          "header_in_image": false
+        }
+      ]
+    },
+    {
+      "topic": "Electric Flux and Gauss's Law",
+      "questions": [
+        {
+          "question_no": 33,
+          "display_no": 33,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q33.png",
+          "option_images": {
+            "a": "kcet-ecf-q33-a.png",
+            "b": "kcet-ecf-q33-b.png",
+            "c": "kcet-ecf-q33-c.png",
+            "d": "kcet-ecf-q33-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 34,
+          "display_no": 34,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q34.png",
+          "option_images": {
+            "a": "kcet-ecf-q34-a.png",
+            "b": "kcet-ecf-q34-b.png",
+            "c": "kcet-ecf-q34-c.png",
+            "d": "kcet-ecf-q34-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 35,
+          "display_no": 35,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q35.png",
+          "option_images": {
+            "a": "kcet-ecf-q35-a.png",
+            "b": "kcet-ecf-q35-b.png",
+            "c": "kcet-ecf-q35-c.png",
+            "d": "kcet-ecf-q35-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 36,
+          "display_no": 36,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q36.png",
+          "option_images": {
+            "a": "kcet-ecf-q36-a.png",
+            "b": "kcet-ecf-q36-b.png",
+            "c": "kcet-ecf-q36-c.png",
+            "d": "kcet-ecf-q36-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 37,
+          "display_no": 37,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q37.png",
+          "option_images": {
+            "a": "kcet-ecf-q37-a.png",
+            "b": "kcet-ecf-q37-b.png",
+            "c": "kcet-ecf-q37-c.png",
+            "d": "kcet-ecf-q37-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 38,
+          "display_no": 38,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q38.png",
+          "option_images": {
+            "a": "kcet-ecf-q38-a.png",
+            "b": "kcet-ecf-q38-b.png",
+            "c": "kcet-ecf-q38-c.png",
+            "d": "kcet-ecf-q38-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 39,
+          "display_no": 39,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q39.png",
+          "option_images": {
+            "a": "kcet-ecf-q39-a.png",
+            "b": "kcet-ecf-q39-b.png",
+            "c": "kcet-ecf-q39-c.png",
+            "d": "kcet-ecf-q39-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 40,
+          "display_no": 40,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q40.png",
+          "option_images": {
+            "a": "kcet-ecf-q40-a.png",
+            "b": "kcet-ecf-q40-b.png",
+            "c": "kcet-ecf-q40-c.png",
+            "d": "kcet-ecf-q40-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 41,
+          "display_no": 41,
+          "year": "KCET",
+          "question_image": "kcet-ecf-q41.png",
+          "option_images": {
+            "a": "kcet-ecf-q41-a.png",
+            "b": "kcet-ecf-q41-b.png",
+            "c": "kcet-ecf-q41-c.png",
+            "d": "kcet-ecf-q41-d.png"
+          },
+          "header_in_image": false
+        }
+      ]
+    }
+  ]
+}

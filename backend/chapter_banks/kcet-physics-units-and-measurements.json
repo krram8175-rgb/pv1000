@@ -1,0 +1,135 @@
+{
+  "key": "kcet-physics-units-and-measurements",
+  "exam": "KCET",
+  "subject": "physics",
+  "cls": "11",
+  "chapter_no": 1,
+  "chapter": "Units and Measurements",
+  "source": "KCET",
+  "mode": "image",
+  "total_questions": 9,
+  "sections": [
+    {
+      "topic": "Full Paper — KCET 2026",
+      "questions": [
+        {
+          "question_no": 1,
+          "display_no": 1,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q1.png",
+          "option_images": {
+            "a": "kcet-uam-q1-a.png",
+            "b": "kcet-uam-q1-b.png",
+            "c": "kcet-uam-q1-c.png",
+            "d": "kcet-uam-q1-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2,
+          "display_no": 2,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q2.png",
+          "option_images": {
+            "a": "kcet-uam-q2-a.png",
+            "b": "kcet-uam-q2-b.png",
+            "c": "kcet-uam-q2-c.png",
+            "d": "kcet-uam-q2-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 3,
+          "display_no": 3,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q3.png",
+          "option_images": {
+            "a": "kcet-uam-q3-a.png",
+            "b": "kcet-uam-q3-b.png",
+            "c": "kcet-uam-q3-c.png",
+            "d": "kcet-uam-q3-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 4,
+          "display_no": 4,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q4.png",
+          "option_images": {
+            "a": "kcet-uam-q4-a.png",
+            "b": "kcet-uam-q4-b.png",
+            "c": "kcet-uam-q4-c.png",
+            "d": "kcet-uam-q4-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 5,
+          "display_no": 5,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q5.png",
+          "option_images": {
+            "a": "kcet-uam-q5-a.png",
+            "b": "kcet-uam-q5-b.png",
+            "c": "kcet-uam-q5-c.png",
+            "d": "kcet-uam-q5-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 6,
+          "display_no": 6,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q6.png",
+          "option_images": {
+            "a": "kcet-uam-q6-a.png",
+            "b": "kcet-uam-q6-b.png",
+            "c": "kcet-uam-q6-c.png",
+            "d": "kcet-uam-q6-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 7,
+          "display_no": 7,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q7.png",
+          "option_images": {
+            "a": "kcet-uam-q7-a.png",
+            "b": "kcet-uam-q7-b.png",
+            "c": "kcet-uam-q7-c.png",
+            "d": "kcet-uam-q7-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 8,
+          "display_no": 8,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q8.png",
+          "option_images": {
+            "a": "kcet-uam-q8-a.png",
+            "b": "kcet-uam-q8-b.png",
+            "c": "kcet-uam-q8-c.png",
+            "d": "kcet-uam-q8-d.png"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 9,
+          "display_no": 9,
+          "year": "KCET 2026",
+          "question_image": "kcet-uam-q9.png",
+          "option_images": {
+            "a": "kcet-uam-q9-a.png",
+            "b": "kcet-uam-q9-b.png",
+            "c": "kcet-uam-q9-c.png",
+            "d": "kcet-uam-q9-d.png"
+          },
+          "header_in_image": false
+        }
+      ]
+    }
+  ]
+}

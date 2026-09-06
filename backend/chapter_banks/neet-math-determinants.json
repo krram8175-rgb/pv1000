@@ -1,0 +1,19 @@
+{
+  "key": "neet-math-determinants",
+  "exam": "NEET",
+  "subject": "math",
+  "cls": "12",
+  "chapter_no": 2,
+  "chapter": "Determinants",
+  "source": "NEET",
+  "mode": "image",
+  "total_questions": 0,
+  "sections": [
+    { "topic": "Expansion of Determinants", "questions": [] },
+    { "topic": "Differentiation and Integration of Determinants", "questions": [] },
+    { "topic": "Multiplication of Determinants", "questions": [] },
+    { "topic": "System of Linear Equations", "questions": [] },
+    { "topic": "Summation of Determinants", "questions": [] },
+    { "topic": "Miscellaneous", "questions": [] }
+  ]
+}

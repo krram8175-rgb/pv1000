@@ -1,0 +1,145 @@
+{
+  "key": "neet-math-basic-maths",
+  "exam": "NEET",
+  "subject": "math",
+  "cls": "11",
+  "chapter_no": 1,
+  "chapter": "Basic Maths",
+  "source": "NEET",
+  "mode": "image",
+  "total_questions": 9,
+  "sections": [
+    {
+      "topic": "Inequalities",
+      "questions": [
+        {
+          "question_no": 1,
+          "display_no": 1,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q1.jpg",
+          "option_images": {
+            "a": "bmaths-q1-a.jpg",
+            "b": "bmaths-q1-b.jpg",
+            "c": "bmaths-q1-c.jpg",
+            "d": "bmaths-q1-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2,
+          "display_no": 2,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q2.jpg",
+          "option_images": {
+            "a": "bmaths-q2-a.jpg",
+            "b": "bmaths-q2-b.jpg",
+            "c": "bmaths-q2-c.jpg",
+            "d": "bmaths-q2-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 3,
+          "display_no": 3,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q3.jpg",
+          "option_images": {
+            "a": "bmaths-q3-a.jpg",
+            "b": "bmaths-q3-b.jpg",
+            "c": "bmaths-q3-c.jpg",
+            "d": "bmaths-q3-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 4,
+          "display_no": 4,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q4.jpg",
+          "option_images": {
+            "a": "bmaths-q4-a.jpg",
+            "b": "bmaths-q4-b.jpg",
+            "c": "bmaths-q4-c.jpg",
+            "d": "bmaths-q4-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 5,
+          "display_no": 5,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q5.jpg",
+          "option_images": {
+            "a": "bmaths-q5-a.jpg",
+            "b": "bmaths-q5-b.jpg",
+            "c": "bmaths-q5-c.jpg",
+            "d": "bmaths-q5-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 6,
+          "display_no": 6,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q6.jpg",
+          "option_images": {
+            "a": "bmaths-q6-a.jpg",
+            "b": "bmaths-q6-b.jpg",
+            "c": "bmaths-q6-c.jpg",
+            "d": "bmaths-q6-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 7,
+          "display_no": 7,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q7.jpg",
+          "option_images": {
+            "a": "bmaths-q7-a.jpg",
+            "b": "bmaths-q7-b.jpg",
+            "c": "bmaths-q7-c.jpg",
+            "d": "bmaths-q7-d.jpg"
+          },
+          "header_in_image": false
+        }
+      ]
+    },
+    {
+      "topic": "Logarithm",
+      "questions": [
+        {
+          "question_no": 8,
+          "display_no": 8,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q8.jpg",
+          "option_images": {
+            "a": "bmaths-q8-a.jpg",
+            "b": "bmaths-q8-b.jpg",
+            "c": "bmaths-q8-c.jpg",
+            "d": "bmaths-q8-d.jpg"
+          },
+          "header_in_image": false
+        }
+      ]
+    },
+    {
+      "topic": "Ratio and Proportion",
+      "questions": [
+        {
+          "question_no": 9,
+          "display_no": 9,
+          "year": "KCET 2025",
+          "question_image": "bmaths-q9.jpg",
+          "option_images": {
+            "a": "bmaths-q9-a.jpg",
+            "b": "bmaths-q9-b.jpg",
+            "c": "bmaths-q9-c.jpg",
+            "d": "bmaths-q9-d.jpg"
+          },
+          "header_in_image": false
+        }
+      ]
+    }
+  ]
+}

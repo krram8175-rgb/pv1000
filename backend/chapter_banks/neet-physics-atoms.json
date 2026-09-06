@@ -1,0 +1,186 @@
+{
+  "key": "neet-physics-atoms",
+  "exam": "NEET",
+  "subject": "physics",
+  "cls": "12",
+  "chapter_no": 12,
+  "chapter": "Atoms",
+  "source": "NEET",
+  "mode": "image",
+  "total_questions": 12,
+  "sections": [
+    {
+      "topic": "Full Chapter",
+      "questions": [
+        {
+          "question_no": 2001,
+          "display_no": 1,
+          "year": "KCET",
+          "question_image": "atoms-fc-q1.jpg",
+          "option_images": {
+            "a": "atoms-fc-q1-a.jpg",
+            "b": "atoms-fc-q1-b.jpg",
+            "c": "atoms-fc-q1-c.jpg",
+            "d": "atoms-fc-q1-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q1-sol.jpg"
+        },
+        {
+          "question_no": 2002,
+          "display_no": 2,
+          "year": "KCET",
+          "question_image": "atoms-fc-q2.jpg",
+          "option_images": {
+            "a": "atoms-fc-q2-a.jpg",
+            "b": "atoms-fc-q2-b.jpg",
+            "c": "atoms-fc-q2-c.jpg",
+            "d": "atoms-fc-q2-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q2-sol.jpg"
+        },
+        {
+          "question_no": 2003,
+          "display_no": 3,
+          "year": "KCET",
+          "question_image": "atoms-fc-q3.jpg",
+          "option_images": {
+            "a": "atoms-fc-q3-a.jpg",
+            "b": "atoms-fc-q3-b.jpg",
+            "c": "atoms-fc-q3-c.jpg",
+            "d": "atoms-fc-q3-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q3-sol.jpg"
+        },
+        {
+          "question_no": 2004,
+          "display_no": 4,
+          "year": "KCET",
+          "question_image": "atoms-fc-q4.jpg",
+          "option_images": {
+            "a": "atoms-fc-q4-a.jpg",
+            "b": "atoms-fc-q4-b.jpg",
+            "c": "atoms-fc-q4-c.jpg",
+            "d": "atoms-fc-q4-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q4-sol.jpg"
+        },
+        {
+          "question_no": 2005,
+          "display_no": 5,
+          "year": "KCET",
+          "question_image": "atoms-fc-q5.jpg",
+          "option_images": {
+            "a": "atoms-fc-q5-a.jpg",
+            "b": "atoms-fc-q5-b.jpg",
+            "c": "atoms-fc-q5-c.jpg",
+            "d": "atoms-fc-q5-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q5-sol.jpg"
+        },
+        {
+          "question_no": 2006,
+          "display_no": 6,
+          "year": "KCET",
+          "question_image": "atoms-fc-q6.jpg",
+          "option_images": {
+            "a": "atoms-fc-q6-a.jpg",
+            "b": "atoms-fc-q6-b.jpg",
+            "c": "atoms-fc-q6-c.jpg",
+            "d": "atoms-fc-q6-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q6-sol.jpg"
+        },
+        {
+          "question_no": 2007,
+          "display_no": 7,
+          "year": "KCET",
+          "question_image": "atoms-fc-q7.jpg",
+          "option_images": {
+            "a": "atoms-fc-q7-a.jpg",
+            "b": "atoms-fc-q7-b.jpg",
+            "c": "atoms-fc-q7-c.jpg",
+            "d": "atoms-fc-q7-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q7-sol.jpg"
+        },
+        {
+          "question_no": 2008,
+          "display_no": 8,
+          "year": "KCET",
+          "question_image": "atoms-fc-q8.jpg",
+          "option_images": {
+            "a": "atoms-fc-q8-a.jpg",
+            "b": "atoms-fc-q8-b.jpg",
+            "c": "atoms-fc-q8-c.jpg",
+            "d": "atoms-fc-q8-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q8-sol.jpg"
+        },
+        {
+          "question_no": 2009,
+          "display_no": 9,
+          "year": "KCET",
+          "question_image": "atoms-fc-q9.jpg",
+          "option_images": {
+            "a": "atoms-fc-q9-a.jpg",
+            "b": "atoms-fc-q9-b.jpg",
+            "c": "atoms-fc-q9-c.jpg",
+            "d": "atoms-fc-q9-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q9-sol.jpg"
+        },
+        {
+          "question_no": 2010,
+          "display_no": 10,
+          "year": "KCET",
+          "question_image": "atoms-fc-q10.jpg",
+          "option_images": {
+            "a": "atoms-fc-q10-a.jpg",
+            "b": "atoms-fc-q10-b.jpg",
+            "c": "atoms-fc-q10-c.jpg",
+            "d": "atoms-fc-q10-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q10-sol.jpg"
+        },
+        {
+          "question_no": 2011,
+          "display_no": 11,
+          "year": "KCET",
+          "question_image": "atoms-fc-q11.jpg",
+          "option_images": {
+            "a": "atoms-fc-q11-a.jpg",
+            "b": "atoms-fc-q11-b.jpg",
+            "c": "atoms-fc-q11-c.jpg",
+            "d": "atoms-fc-q11-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q11-sol.jpg"
+        },
+        {
+          "question_no": 2012,
+          "display_no": 12,
+          "year": "KCET",
+          "question_image": "atoms-fc-q12.jpg",
+          "option_images": {
+            "a": "atoms-fc-q12-a.jpg",
+            "b": "atoms-fc-q12-b.jpg",
+            "c": "atoms-fc-q12-c.jpg",
+            "d": "atoms-fc-q12-d.jpg"
+          },
+          "header_in_image": false,
+          "solution_image": "atoms-fc-q12-sol.jpg"
+        }
+      ]
+    }
+  ]
+}
