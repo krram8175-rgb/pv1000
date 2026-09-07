@@ -5,11 +5,11 @@ import { RF_5M_PAGES } from "@/lib/rfQuestions";
 import { Sigma, ChevronLeft, ChevronRight } from "lucide-react";
 
 const TINTS = {
-  teal: "bg-teal-300/80 text-slate-900",
-  sky: "bg-sky-300/80 text-slate-900",
-  blue: "bg-blue-400/80 text-white",
-  indigo: "bg-indigo-400/80 text-white",
-  violet: "bg-violet-400/80 text-white",
+  teal: "bg-teal-300/80",
+  sky: "bg-sky-300/80",
+  blue: "bg-blue-400/80",
+  indigo: "bg-indigo-400/80",
+  violet: "bg-violet-400/80",
 };
 
 export default function RelationsFunctions5M() {
@@ -33,7 +33,7 @@ export default function RelationsFunctions5M() {
             <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
               {/* Year banner */}
               <div className={`px-4 py-6 text-center ${TINTS[g.tint] || TINTS.teal}`}>
-                <h2 className="text-4xl font-black italic tracking-wide" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
+                <h2 className="text-4xl font-black italic tracking-wide text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
                   {g.year}
                 </h2>
               </div>
