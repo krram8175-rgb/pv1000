@@ -3,7 +3,15 @@
 export const RF_5M_PAGES = [
   // Page 1
   [
-    { year: "2027", tint: "teal", questions: [] },
+    {
+      year: "2027", tint: "teal", questions: [
+        { tag: "Model 1", qno: "Q39", marks: 5, text: "State whether the function f : R → R defined by f(x) = 3 – 4x is one-one, onto or bijective. Justify your answer." },
+        { tag: "Model 2", qno: "Q39", marks: 5, text: "Consider f : R → R given by f(x) = 4x + 3. Show that f is invertible. Find the inverse." },
+        { tag: "Model 3", qno: "Q39", marks: 5, text: "If f : R → R is defined by f(x) = 1 + x², then show that f is neither one-one nor onto." },
+        { tag: "Model 4", qno: "Q39", marks: 5, text: "Show that the function f : R* → R* defined by f(x) = 1/x is one-one and onto, where R* is the set of all non-zero real numbers." },
+        { tag: "Model 5", qno: "Q39", marks: 5, text: "Let A = R – {3} and B = R – {1}. Consider the function f : A → B defined by f(x) = (x – 2)/(x – 3). Is f one-one and onto? Justify your answer." },
+      ],
+    },
   ],
   // Page 2
   [
