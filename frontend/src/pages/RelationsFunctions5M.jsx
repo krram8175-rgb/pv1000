@@ -59,19 +59,19 @@ export default function RelationsFunctions5M() {
       <main className="mx-auto max-w-2xl px-3 pb-28 pt-4 md:px-6">
         <div className="space-y-6">
           {groups.map((g, gi) => (
-            <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
-              <div className="flex items-center justify-center gap-2 bg-[#F2C230] px-4 py-4 text-center">
+            <section key={g.year}>
+              <div className="mb-3 flex items-center justify-center gap-2 rounded-xl bg-[#F2C230] px-4 py-4 text-center shadow-sm">
                 <h2 className="text-2xl font-black italic tracking-wide text-black md:text-3xl" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
                   {g.year}{g.label ? ` – ${g.label}` : ""}
                 </h2>
               </div>
 
               {g.questions.length === 0 ? (
-                <div className="border-t border-slate-200 bg-white px-4 py-6 text-center">
+                <div className="rounded-xl border border-slate-200 bg-white px-4 py-6 text-center shadow-sm">
                   <p className="text-xs font-semibold text-slate-500">Questions will be added soon.</p>
                 </div>
               ) : (
-                <div className="space-y-px bg-slate-200">
+                <div className="overflow-hidden rounded-xl bg-slate-200 shadow-sm space-y-px">
                   {g.questions.map((q, i) => {
                     const id = `p${page}-g${gi}-q${i}`;
                     const isEditing = editingId === id;
