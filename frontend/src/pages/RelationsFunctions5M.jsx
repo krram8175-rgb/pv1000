@@ -16,7 +16,7 @@ export default function RelationsFunctions5M() {
   }, [page]);
 
   return (
-    <div className="min-h-screen bg-[#F8FAFC]">
+    <div className="min-h-screen" style={{ backgroundImage: "linear-gradient(180deg, #6FE7DD 0%, #79A9E7 52%, #9C8BEA 100%)" }}>
       <Header showBack title="Relations and Functions" Icon={Sigma} bgClass="bg-violet-600" />
 
       {/* pb-28 leaves room so content is never hidden behind the fixed nav bar */}
@@ -52,18 +52,21 @@ export default function RelationsFunctions5M() {
             type="button"
             onClick={() => setPage((p) => Math.max(0, p - 1))}
             disabled={page === 0}
-            className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 px-5 py-2.5 text-sm font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-40"
+            className="inline-flex items-center gap-1.5 rounded-xl border-2 border-slate-500 bg-white px-5 py-2.5 text-sm font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-40"
           >
             <ChevronLeft className="h-4 w-4" /> Previous
           </button>
 
-          <div className="flex items-center gap-1.5">
-            {RF_5M_PAGES.map((_, i) => (
-              <span
-                key={i}
-                className={`h-2 w-2 rounded-full transition ${i === page ? "w-5 bg-violet-600" : "bg-slate-300"}`}
-              />
-            ))}
+          <div className="flex items-center gap-2">
+            <span className="text-sm font-extrabold text-slate-800">{page + 1}/{total}</span>
+            <div className="flex items-center gap-1.5">
+              {RF_5M_PAGES.map((_, i) => (
+                <span
+                  key={i}
+                  className={`h-2 w-2 rounded-full transition ${i === page ? "w-5 bg-violet-600" : "bg-slate-300"}`}
+                />
+              ))}
+            </div>
           </div>
 
           <button

@@ -73,7 +73,7 @@ export default function ChapterDetail() {
             <div data-testid="chapter-weightage" className="space-y-3">
               {parts.map((p) => {
                 const c = MARK_COLORS[p.mark] || MARK_COLORS["1"];
-                const isRF5M = subjectId === "math" && String(ch) === "1" && p.key === "D";
+                const isRF5M = subjectId === "math" && String(ch) === "1" && String(p.mark) === "5";
                 return (
                   <div
                     key={p.key}
