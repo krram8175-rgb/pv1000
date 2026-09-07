@@ -60,20 +60,10 @@ export default function RelationsFunctions5M() {
         <div className="space-y-6">
           {groups.map((g, gi) => (
             <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
-              <div className="flex items-center justify-center gap-2 bg-yellow-300 px-4 py-4 text-center">
-                <h2 className="text-3xl font-black italic tracking-wide text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
-                  {g.year}
+              <div className="flex items-center justify-center gap-2 bg-[#F2C230] px-4 py-4 text-center">
+                <h2 className="text-2xl font-black italic tracking-wide text-black md:text-3xl" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
+                  {g.year}{g.label ? ` – ${g.label}` : ""}
                 </h2>
-                {g.label && (
-                  <div className="flex items-center gap-1">
-                    <span className="text-2xl font-black text-black">–</span>
-                    <span className="flex flex-col leading-none">
-                      {g.label.split(" ").map((w, wi) => (
-                        <span key={wi} className="text-base font-black italic text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>{w}</span>
-                      ))}
-                    </span>
-                  </div>
-                )}
               </div>
 
               {g.questions.length === 0 ? (
