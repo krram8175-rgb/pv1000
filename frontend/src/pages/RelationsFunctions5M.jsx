@@ -80,14 +80,12 @@ export default function RelationsFunctions5M() {
                       <div key={i} className="bg-white px-4 py-3">
                         <div className="mb-1 flex items-center gap-2">
                           <span className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] font-bold text-slate-900">{q.tag}</span>
-                          <span className="rounded bg-violet-50 px-1.5 py-0.5 text-[10px] font-bold text-violet-700">{q.qno}</span>
-                          <span className="ml-auto text-[11px] font-bold text-slate-500">({q.marks})</span>
                           {!isEditing && (
                             <button
                               type="button"
                               onClick={() => startEdit(id, q.text)}
                               aria-label="Edit question"
-                              className="flex h-6 w-6 items-center justify-center rounded-md border border-slate-200 text-slate-500 transition hover:border-violet-300 hover:text-violet-600"
+                              className="ml-auto flex h-6 w-6 items-center justify-center rounded-md border border-slate-200 text-slate-500 transition hover:border-violet-300 hover:text-violet-600"
                             >
                               <Pencil className="h-3.5 w-3.5" />
                             </button>
