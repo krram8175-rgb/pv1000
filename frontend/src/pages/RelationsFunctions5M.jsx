@@ -59,17 +59,17 @@ export default function RelationsFunctions5M() {
       <main className="mx-auto max-w-2xl px-3 pb-28 pt-4 md:px-6">
         <div className="space-y-6">
           {groups.map((g, gi) => (
-            <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
-              <div className={`flex items-center justify-center gap-3 px-4 py-6 text-center ${TINTS[g.tint] || TINTS.teal}`}>
-                <h2 className="text-4xl font-black italic tracking-wide text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
+            <section key={g.year} className="overflow-hidden rounded-xl bg-white/95 shadow-sm">
+              <div className="flex items-center justify-center gap-2 px-4 pb-1 pt-3 text-center">
+                <h2 className="text-3xl font-black italic tracking-wide text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
                   {g.year}
                 </h2>
                 {g.label && (
-                  <div className="flex items-center gap-1.5">
-                    <span className="text-2xl font-black text-black">–</span>
+                  <div className="flex items-center gap-1">
+                    <span className="text-xl font-black text-black">–</span>
                     <span className="flex flex-col leading-none">
                       {g.label.split(" ").map((w, wi) => (
-                        <span key={wi} className="text-base font-black italic text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>{w}</span>
+                        <span key={wi} className="text-sm font-black italic text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>{w}</span>
                       ))}
                     </span>
                   </div>
@@ -77,7 +77,7 @@ export default function RelationsFunctions5M() {
               </div>
 
               {g.questions.length === 0 ? (
-                <div className="border-t border-slate-200 bg-white/95 px-4 py-6 text-center">
+                <div className="border-t border-slate-200 bg-white px-4 py-6 text-center">
                   <p className="text-xs font-semibold text-slate-500">Questions will be added soon.</p>
                 </div>
               ) : (
