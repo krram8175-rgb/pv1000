@@ -79,7 +79,7 @@ export default function RelationsFunctions5M() {
                     return (
                       <div key={i} className="bg-white px-4 py-3">
                         <div className="mb-1 flex items-center gap-2">
-                          <span className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] font-bold text-slate-600">{q.tag}</span>
+                          <span className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] font-bold text-slate-900">{q.tag}</span>
                           <span className="rounded bg-violet-50 px-1.5 py-0.5 text-[10px] font-bold text-violet-700">{q.qno}</span>
                           <span className="ml-auto text-[11px] font-bold text-slate-500">({q.marks})</span>
                           {!isEditing && (
@@ -122,7 +122,7 @@ export default function RelationsFunctions5M() {
                             </div>
                           </div>
                         ) : (
-                          <p className="whitespace-pre-wrap text-[12px] leading-relaxed text-slate-800">{value}</p>
+                          <p className="whitespace-pre-wrap text-[11px] leading-relaxed text-slate-900">{value}</p>
                         )}
                       </div>
                     );
