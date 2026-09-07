@@ -13,7 +13,7 @@ const ICONS = { Atom, FlaskConical, Sigma, Dna, Cpu, BookOpen, Languages, Scroll
 const FREE_CHAPTERS = {
   physics: [1, 2, 3],
   chemistry: [1, 2, 4],
-  math: [3, 4, 12],
+  math: [1, 3, 4, 12],
 };
 
 export default function ChapterWise() {

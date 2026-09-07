@@ -1,5 +1,5 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { useQueryClient, useQuery } from "@tanstack/react-query";
 import { getSubject } from "@/lib/api";
 import { Header } from "@/components/Header";
@@ -12,6 +12,7 @@ const ICONS = { Atom, FlaskConical, Sigma, Dna, Cpu, BookOpen, Languages, Scroll
 
 export default function ChapterDetail() {
   const { subjectId, ch } = useParams();
+  const navigate = useNavigate();
   const queryClient = useQueryClient();
 
   const { data: subject } = useQuery({
@@ -72,11 +73,13 @@ export default function ChapterDetail() {
             <div data-testid="chapter-weightage" className="space-y-3">
               {parts.map((p) => {
                 const c = MARK_COLORS[p.mark] || MARK_COLORS["1"];
+                const isRF5M = subjectId === "math" && String(ch) === "1" && p.key === "D";
                 return (
                   <div
                     key={p.key}
                     data-testid={`weightage-part-${p.key}`}
-                    className="flex items-center gap-3 rounded-xl border border-slate-200 bg-white px-4 py-4 shadow-sm"
+                    onClick={() => isRF5M && navigate(`/subject/${subjectId}/chapters/${ch}/relations-functions-5m`)}
+                    className={`flex items-center gap-3 rounded-xl border border-slate-200 bg-white px-4 py-4 shadow-sm ${isRF5M ? "cursor-pointer ring-1 ring-violet-200 transition hover:shadow-md hover:ring-violet-400" : ""}`}
                   >
                     <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border text-sm font-extrabold ${c.badge}`}>
                       {p.mark}m
@@ -84,6 +87,7 @@ export default function ChapterDetail() {
                     <div>
                       <p className="text-sm font-extrabold text-slate-900">{p.name}</p>
                       {p.count > 1 && <p className="text-xs text-slate-500">{p.mark} × {p.count} = {p.total}</p>}
+                      {isRF5M && <p className="text-xs font-semibold text-violet-600">Tap to view questions →</p>}
                     </div>
                     <span className={`ml-auto rounded-lg px-3 py-1.5 text-sm font-bold text-white ${accent.icon}`}>
                       {p.total} marks
