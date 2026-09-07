@@ -60,12 +60,19 @@ export default function RelationsFunctions5M() {
         <div className="space-y-6">
           {groups.map((g, gi) => (
             <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
-              <div className={`px-4 py-6 text-center ${TINTS[g.tint] || TINTS.teal}`}>
+              <div className={`flex items-center justify-center gap-3 px-4 py-6 text-center ${TINTS[g.tint] || TINTS.teal}`}>
                 <h2 className="text-4xl font-black italic tracking-wide text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
                   {g.year}
                 </h2>
                 {g.label && (
-                  <p className="mt-1 text-xs font-bold uppercase tracking-widest text-black/70">{g.label}</p>
+                  <div className="flex items-center gap-1.5">
+                    <span className="text-2xl font-black text-black">–</span>
+                    <span className="flex flex-col leading-none">
+                      {g.label.split(" ").map((w, wi) => (
+                        <span key={wi} className="text-base font-black italic text-black" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>{w}</span>
+                      ))}
+                    </span>
+                  </div>
                 )}
               </div>
 
