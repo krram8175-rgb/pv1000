@@ -1,15 +1,22 @@
 import React from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Header } from "@/components/Header";
 import { RF_5M_PAGES } from "@/lib/rfQuestions";
 import { Sigma, ChevronLeft, ChevronRight } from "lucide-react";
 
+const TINTS = {
+  teal: "bg-teal-300/80 text-slate-900",
+  sky: "bg-sky-300/80 text-slate-900",
+  blue: "bg-blue-400/80 text-white",
+  indigo: "bg-indigo-400/80 text-white",
+  violet: "bg-violet-400/80 text-white",
+};
+
 export default function RelationsFunctions5M() {
-  const { subjectId } = useParams();
-  const navigate = useNavigate();
+  const { subjectId, ch } = useParams();
   const [page, setPage] = React.useState(0);
   const total = RF_5M_PAGES.length;
-  const items = RF_5M_PAGES[page] || [];
+  const groups = RF_5M_PAGES[page] || [];
 
   React.useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -19,33 +26,43 @@ export default function RelationsFunctions5M() {
     <div className="min-h-screen" style={{ backgroundImage: "linear-gradient(180deg, #6FE7DD 0%, #79A9E7 52%, #9C8BEA 100%)" }}>
       <Header showBack title="Relations and Functions" Icon={Sigma} bgClass="bg-violet-600" />
 
-      {/* pb-28 leaves room so content is never hidden behind the fixed nav bar */}
-      <main className="mx-auto max-w-2xl px-4 pb-28 pt-6 md:px-6">
-        <div className="mb-5 flex items-center justify-between rounded-2xl border border-violet-100 bg-white p-4 shadow-sm">
-          <div>
-            <p className="text-xs font-bold uppercase tracking-wide text-violet-600">5 Marks · Part D</p>
-            <h1 className="text-base font-extrabold text-slate-900">Relations and Functions</h1>
-          </div>
-          <span className="rounded-lg bg-violet-600 px-3 py-1.5 text-sm font-bold text-white">
-            Page {page + 1} / {total}
-          </span>
-        </div>
-
-        <div className="space-y-4">
-          {items.map((q, i) => (
-            <div key={i} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <div className="mb-2 flex items-center gap-2">
-                <span className="rounded-md bg-violet-50 px-2 py-1 text-xs font-bold text-violet-700">{q.year}</span>
-                <span className="rounded-md bg-slate-100 px-2 py-1 text-xs font-bold text-slate-600">{q.qno}</span>
-                <span className="ml-auto rounded-md border border-violet-200 px-2 py-1 text-xs font-bold text-violet-700">5M</span>
+      {/* pb-28 keeps content clear of the fixed nav bar */}
+      <main className="mx-auto max-w-2xl px-3 pb-28 pt-4 md:px-6">
+        <div className="space-y-6">
+          {groups.map((g) => (
+            <section key={g.year} className="overflow-hidden rounded-xl shadow-sm">
+              {/* Year banner */}
+              <div className={`px-4 py-6 text-center ${TINTS[g.tint] || TINTS.teal}`}>
+                <h2 className="text-4xl font-black italic tracking-wide" style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}>
+                  {g.year}
+                </h2>
               </div>
-              <p className="text-[15px] leading-relaxed text-slate-800">{q.text}</p>
-            </div>
+
+              {/* Question cards */}
+              {g.questions.length === 0 ? (
+                <div className="border-t border-slate-200 bg-white/95 px-4 py-6 text-center">
+                  <p className="text-xs font-semibold text-slate-500">Questions will be added soon.</p>
+                </div>
+              ) : (
+                <div className="space-y-px bg-slate-200">
+                  {g.questions.map((q, i) => (
+                    <div key={i} className="bg-white px-4 py-3">
+                      <div className="mb-1 flex items-center gap-2">
+                        <span className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] font-bold text-slate-600">{q.tag}</span>
+                        <span className="rounded bg-violet-50 px-1.5 py-0.5 text-[10px] font-bold text-violet-700">{q.qno}</span>
+                        <span className="ml-auto text-[11px] font-bold text-slate-500">({q.marks})</span>
+                      </div>
+                      <p className="text-[12px] leading-relaxed text-slate-800">{q.text}</p>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </section>
           ))}
         </div>
       </main>
 
-      {/* FIXED navigation bar — stays put, never scrolls away */}
+      {/* FIXED navigation bar */}
       <div className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 backdrop-blur">
         <div className="mx-auto flex max-w-2xl items-center justify-between gap-3 px-4 py-3 md:px-6">
           <button
@@ -61,10 +78,7 @@ export default function RelationsFunctions5M() {
             <span className="text-sm font-extrabold text-slate-800">{page + 1}/{total}</span>
             <div className="flex items-center gap-1.5">
               {RF_5M_PAGES.map((_, i) => (
-                <span
-                  key={i}
-                  className={`h-2 w-2 rounded-full transition ${i === page ? "w-5 bg-violet-600" : "bg-slate-300"}`}
-                />
+                <span key={i} className={`h-2 w-2 rounded-full transition ${i === page ? "w-5 bg-violet-600" : "bg-slate-300"}`} />
               ))}
             </div>
           </div>
