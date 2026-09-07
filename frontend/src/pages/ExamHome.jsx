@@ -5,8 +5,8 @@ import { GraduationCap, FlaskConical, Sigma, Atom, Stethoscope, ArrowRight, Cloc
 
 const EXAMS = [
   { id: "puc", label: "2nd PUC Karnataka Board", sub: "+ LAB", icon: GraduationCap, to: "/board", accent: "bg-blue-600", active: true },
-  { id: "kcet", label: "KCET", icon: FlaskConical, accent: "bg-emerald-600", active: true, to: "/exam/kcet" },
-  { id: "neet", label: "NEET", icon: Stethoscope, accent: "bg-rose-600", active: true, to: "/exam/neet" },
+  { id: "kcet", label: "KCET", icon: FlaskConical, accent: "bg-emerald-600", active: false },
+  { id: "neet", label: "NEET", icon: Stethoscope, accent: "bg-rose-600", active: false },
   { id: "jee-main", label: "JEE Main's", icon: Sigma, accent: "bg-violet-600", active: false },
   { id: "jee-adv", label: "JEE Advance", icon: Atom, accent: "bg-amber-600", active: false },
 ];
