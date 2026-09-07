@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import { GraduationCap, ArrowLeft } from "lucide-react";
 
-export const Header = ({ showBack = false, title, Icon, bgClass = "bg-blue-600", onBack }) => {
+export const Header = ({ showBack = false, title, subtitle, Icon, bgClass = "bg-blue-600", onBack }) => {
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -50,7 +50,12 @@ export const Header = ({ showBack = false, title, Icon, bgClass = "bg-blue-600",
             </div>
           )}
           {title && (
-            <h1 className="text-lg font-extrabold tracking-tight text-white md:text-xl">{title}</h1>
+            <div className="min-w-0">
+              <h1 className="truncate text-lg font-extrabold tracking-tight text-white md:text-xl">{title}</h1>
+              {subtitle && (
+                <p className="truncate text-xs font-semibold text-white/80">{subtitle}</p>
+              )}
+            </div>
           )}
         </div>
       </header>

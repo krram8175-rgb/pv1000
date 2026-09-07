@@ -54,7 +54,7 @@ export default function RelationsFunctions5M() {
 
   return (
     <div className="min-h-screen" style={{ backgroundImage: "linear-gradient(180deg, #6FE7DD 0%, #79A9E7 52%, #9C8BEA 100%)" }}>
-      <Header showBack title="Relations and Functions" Icon={Sigma} bgClass="bg-violet-600" />
+      <Header showBack title="Relations and Functions" subtitle="5 Marks · Part D · Q39" Icon={Sigma} bgClass="bg-violet-600" />
 
       <main className="mx-auto max-w-2xl px-3 pb-28 pt-4 md:px-6">
         <div className="space-y-6">
